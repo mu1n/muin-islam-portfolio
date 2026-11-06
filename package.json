@@ -1,0 +1,19 @@
+{
+  "name": "muin-islam-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of MUIN ISLAM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "framer",
+    "art-direction",
+    "branding",
+    "design"
+  ],
+  "author": "MUIN ISLAM",
+  "license": "ISC"
+}
